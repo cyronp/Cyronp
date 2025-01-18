@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono+monospace&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&width=435&lines=Hi%2C+everyone!+I'm+Vitor+Henrique.;Nice+to+meet+you!)](https://git.io/typing-svg)
+
 I am currently studying software engineering and am always motivated to learn and explore new areas. I am open to stepping out of my comfort zone and thrive on challenges. With a strong focus and dedication to excellence, I am looking foward to grow both personally and professionally. I am currently seeking my first job opportunity in software development, whether in front-end or back-end roles.
+
 ### Tecnologias / Technologies:
 
 <div style="display: inline_block"><br>
