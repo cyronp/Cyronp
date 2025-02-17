@@ -4,6 +4,12 @@
 
 I am currently studying software engineering and am always motivated to learn and explore new areas. I am open to stepping out of my comfort zone and thrive on challenges. With a strong focus and dedication to excellence, I am looking foward to grow both personally and professionally. I am currently seeking my first job opportunity in software development, whether in front-end or back-end roles.
 
+### 📞 Contato / Contact
+
+<div> 
+  <a href="https://www.linkedin.com/in/vitor-henrique-185b092b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 ### 💻 Front-end:
 
 <div>
@@ -38,8 +44,3 @@ I am currently studying software engineering and am always motivated to learn an
   </a>
 </div>
     
-### 📞 Contato / Contact
-
-<div> 
-  <a href="https://www.linkedin.com/in/vitor-henrique-185b092b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
