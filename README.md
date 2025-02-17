@@ -2,7 +2,7 @@
 
 I am currently studying software engineering and am always motivated to learn and explore new areas. I am open to stepping out of my comfort zone and thrive on challenges. With a strong focus and dedication to excellence, I am looking foward to grow both personally and professionally. I am currently seeking my first job opportunity in software development, whether in front-end or back-end roles.
 
-### Tecnologias / Technologies:
+### ⚒️ Tecnologias / Technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@ I am currently studying software engineering and am always motivated to learn an
   </a>
 </div>
     
-### Contato / Contact
+### 📞 Contato / Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/vitor-henrique-185b092b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
