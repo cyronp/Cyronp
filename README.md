@@ -12,10 +12,10 @@ I am currently studying software engineering and am always motivated to learn an
 </div>
 
 
-##
-If gmail link didn't work:
-##
-Email: vitorhenriquedasilveira@gmail.com
+<div>
+  <h1>If gmail link didn't work:</h1>
+  <p>Email: vitorhenriquedasilveira@gmail.com</p>
+</div>
 ##
 
 ### 💻 Front-end:
