@@ -14,7 +14,9 @@ I am currently studying software engineering and am always motivated to learn an
 
 ##
 If gmail link didn't work:
+##
 Email: vitorhenriquedasilveira@gmail.com
+##
 
 ### 💻 Front-end:
 
