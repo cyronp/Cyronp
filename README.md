@@ -13,7 +13,7 @@ I am currently studying software engineering and am always motivated to learn an
 
 
 <div>
-  <h2>If gmail link didn't work:</h1>
+  <h4>If gmail link didn't work:</h1>
   <p>Email: vitorhenriquedasilveira@gmail.com</p>
 </div>
 
