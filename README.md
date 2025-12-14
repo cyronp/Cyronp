@@ -4,14 +4,14 @@
 
 I am currently studying software engineering and am always motivated to learn and explore new areas. I am open to stepping out of my comfort zone and thrive on challenges. With a strong focus and dedication to excellence, I am looking foward to grow both personally and professionally. I am currently seeking my first job opportunity in software development, whether in front-end or back-end roles.
 
-### 📞 Contato / Contact
+### Contato / Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/vitor-henrique-185b092b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:vitorhenriquedasilveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-### 💻 Front-end:
+### Front-end:
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +23,7 @@ I am currently studying software engineering and am always motivated to learn an
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
-### ⚙️ Back-end:
+### Back-end:
 <div>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -33,7 +33,7 @@ I am currently studying software engineering and am always motivated to learn an
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff">
 </div>
 
-### 💾 DataBase:
+### DataBase:
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
