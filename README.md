@@ -39,13 +39,3 @@ I am currently studying software engineering and am always motivated to learn an
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white">
 </div>
-
-### GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/Cyronp">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Cyronp&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-  </a>
-</div>
-    
