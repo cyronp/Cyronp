@@ -5,9 +5,7 @@ My name is Vitor Henrique, and I am a Full Stack Developer with 1 year of solid 
 
 I have professional experience developing applications using TypeScript, React, Node.js, Next.js, and Python, as well as knowledge in UI/UX.
 
-Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance.
-
-:)
+Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance. :)
 
 ![Cyronp's Stats](https://github-readme-stats.vercel.app/api?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Cyronp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
