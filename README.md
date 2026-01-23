@@ -8,6 +8,8 @@ I have professional experience developing applications using TypeScript, React, 
 
 Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance.
 
+:)
+
 ### Contact
 
 <div> 
