@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono+monospace&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&width=435&lines=Hi%2C+everyone!+I'm+Vitor+Henrique.;Nice+to+meet+you!)](https://git.io/typing-svg)
-
 # About Me:
 
 My name is Vitor Henrique, and I am a Full Stack Developer with 1 year of solid experience, continuously evolving professionally.
