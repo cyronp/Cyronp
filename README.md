@@ -2,7 +2,11 @@
 
 # About Me:
 
-I am currently studying software engineering and am always motivated to learn and explore new areas. I am open to stepping out of my comfort zone and thrive on challenges. With a strong focus and dedication to excellence, I am looking foward to grow both personally and professionally. I am currently seeking my first job opportunity in software development, whether in front-end or back-end roles.
+My name is Vitor Henrique, and I am a Full Stack Developer with 1 year of solid experience, continuously evolving professionally.
+
+I have professional experience developing applications using TypeScript, React, Node.js, Next.js, and Python, as well as knowledge in UI/UX.
+
+Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance.
 
 ### Contact
 
