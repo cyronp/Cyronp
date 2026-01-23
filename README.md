@@ -10,7 +10,7 @@ Throughout my career, I have been responsible for developing applications that s
 :)
 
 ![Cyronp's Stats](https://github-readme-stats.vercel.app/api?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Cyronp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true)
+![Cyronp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### Front-end:
 <div>
