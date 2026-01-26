@@ -21,7 +21,7 @@ Throughout my career, I have been responsible for developing applications that s
 
 
 <h2 align="center">Back-end</h2>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -33,7 +33,7 @@ Throughout my career, I have been responsible for developing applications that s
 
 
 <h2 align="center">DataBase</h2>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white">
