@@ -10,8 +10,8 @@ Throughout my career, I have been responsible for developing applications that s
 ![Cyronp's Stats](https://github-readme-stats.vercel.app/api?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Cyronp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### Front-end:
-<div>
+<h2 align="center" style="color: red">Front-End</h2>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -19,7 +19,8 @@ Throughout my career, I have been responsible for developing applications that s
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </div>
 
-### Back-end:
+
+<h2 align="center">Back-end</h2>
 <div>
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -30,13 +31,15 @@ Throughout my career, I have been responsible for developing applications that s
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff">
 </div>
 
-### DataBase:
+
+<h2 align="center">DataBase</h2>
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
 
 ### Contact
 <div> 
