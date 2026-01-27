@@ -7,9 +7,6 @@ I have professional experience developing applications using TypeScript, React, 
 
 Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance. :)
 
-![Cyronp's Stats](https://github-readme-stats.vercel.app/api?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyronp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 <h2 align="center" style="color: red">Front-End</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
