@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono+monospace&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&width=435&lines=Hi%2C+everyone!+I'm+Vitor+Henrique.;Nice+to+meet+you!)](https://git.io/typing-svg)
 # About Me:
 
-My name is Vitor Henrique, and I am a Full Stack Developer with 1 year of solid experience, continuously evolving professionally.
+My name is Vitor Henrique, and I am a Full Stack Developer with 2 years of solid experience and a strong commitment to continuous professional growth.
 
-I have professional experience developing applications using TypeScript, React, Node.js, Next.js, and Python, as well as knowledge in UI/UX.
+I have professional experience developing management applications using TypeScript, React, Node.js, Next.js, and Python.
 
-Throughout my career, I have been responsible for developing applications that significantly reduced manual processes, optimizing workflows that previously required hours of execution, always focusing on usability and performance. :)
+Throughout my career, I have been responsible for building applications that significantly reduced manual processes, optimizing workflows that previously required hours to complete—always with a strong focus on usability and performance.:)
 
 <h2 align="center" style="color: red">Front-End</h2>
 <div align="center">
