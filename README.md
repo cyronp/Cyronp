@@ -5,7 +5,7 @@ My name is Vitor Henrique, and I am a Full Stack Developer with 2 years of solid
 
 I have professional experience developing management applications using TypeScript, React, Node.js, Next.js, and Python.
 
-Throughout my career, I have been responsible for building applications that significantly reduced manual processes, optimizing workflows that previously required hours to complete—always with a strong focus on usability and performance. :)
+Throughout my career, I have been responsible for building applications that significantly reduced manual processes, optimizing workflows that previously required hours to complete, always with a strong focus on usability and performance. :)
 
 <h2 align="center" style="color: red">Front-End</h2>
 <div align="center">
